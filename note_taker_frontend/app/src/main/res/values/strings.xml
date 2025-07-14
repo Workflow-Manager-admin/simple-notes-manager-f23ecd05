@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">note_taker_frontend</string>
+    <string name="app_name">Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="search_notes">Search notes…</string>
+    <string name="delete_note_confirm">Are you sure you want to permanently delete this note?</string>
+    <string name="note_empty_msg">No notes yet.\nTap + to add your first note.</string>
 </resources>
